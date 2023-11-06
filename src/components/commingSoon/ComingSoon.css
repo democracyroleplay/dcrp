@@ -1,0 +1,15 @@
+.comingSoonBox {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    color: rgb(0, 255, 157);
+    font-weight: 600;
+    font-size: 5rem;
+}
+
+.comingSoonBox .registerText {
+    top: 50%;
+}

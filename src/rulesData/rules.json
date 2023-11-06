@@ -1,0 +1,53 @@
+{
+    "rules": [
+        {
+            "title": "Respectful Behaviour",
+            "description": "Treat all members with dignity. Avoid using offensive language or slurs."
+        },
+        {
+            "title": "Non-Discrimination",
+            "description": "Discrimination based on race, gender, religion, sexual orientation, or any other characteristic is strictly prohibited."
+        },
+        {
+            "title": "Mindful Language Use",
+            "description": "Limit swearing and avoid excessive profanity."
+        },
+        {
+            "title": "Adherence to Server Rules",
+            "description": "Ensure you're abiding by all server and Discord community guidelines."
+        },
+        {
+            "title": "Spam-Free Environment",
+            "description": "Refrain from spamming messages, emojis, or links."
+        },
+        {
+            "title": "Safe and Appropriate Content",
+            "description": "NSFW content, including explicit images, videos, or links, is forbidden."
+        },
+        {
+            "title": "Proper Channel Usage",
+            "description": "Utilize channels for their intended purpose and avoid off-topic discussions."
+        },
+        {
+            "title": "Avoid Spamming",
+            "description": "Both text spam in channels and microphone spam in voice channels are not allowed."
+        },
+        {
+            "title": "Respect Staff",
+            "description": "Mention staff only for valid reasons. Use the ticketing system for queries or issues."
+        },
+        {
+            "title": "No Advertising",
+            "description": "Promotion of other FiveM servers, websites, or any external services is prohibited.\n\rNo Promotion in DMs: Promoting other RP servers through direct messages is not allowed and may result in a ban."
+        }
+        ,
+        {
+            "title": "Anti-Hacking Policy",
+            "description": "Discussions or endorsements of hacking, cheating, or exploiting are not allowed."
+        },
+        {
+            "title": "Respect Privacy",
+            "description": "Posting personal information without explicit permission is forbidden."
+        }
+    ]
+}

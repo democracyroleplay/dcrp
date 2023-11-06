@@ -1,0 +1,27 @@
+@font-face {
+  font-family: myFont;
+  src: url('./assets/fonts/Voice\ In\ My\ Head.otf');
+}
+
+body {
+  margin: 0;
+  font-family: myFont;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-transform: capitalize;
+}
+
+code {
+  font-family: url('./assets/fonts/Agbalumo-Regular.ttf');
+}
+
+@media screen and (max-width: 767px) {
+  * {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  body {
+    overflow: hidden;
+  }
+}
