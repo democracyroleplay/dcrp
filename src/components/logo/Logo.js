@@ -1,44 +1,18 @@
-import { useEffect, useRef } from "react";
-import gsap from "gsap-trial";
-import DrawSVGPlugin from "gsap-trial/DrawSVGPlugin";
+import { useEffect, useState } from "react";
 import LogoS from "../../assets/images/democratic_logo.png";
 import "./Logo.scss";
 
 const Logo = () => {
-  const bgRef = useRef();
-  const outlineLogoRef = useRef();
-  const solidLogoRef = useRef();
-
+  const [opacity, setOpacity] = useState(0);
   useEffect(() => {
-    gsap.registerPlugin(DrawSVGPlugin);
-
-    gsap
-      .timeline()
-      .to(bgRef.current, {
-        duration: 1,
-        opacity: 1,
-      })
-      .from(outlineLogoRef.current, {
-        drawSVG: 0,
-        duration: 20,
-      });
-
-    gsap.fromTo(
-      solidLogoRef.current,
-      {
-        opacity: 0,
-      },
-      {
-        opacity: 1,
-        delay: 4,
-        duration: 4,
-      }
-    );
-  }, []);
-
+    setTimeout(() => {
+      setOpacity(1)
+    }, 6000)
+  }, [])
   return (
-    <div className="logo-container" ref={bgRef}>
-      <img className="solid-logo" ref={solidLogoRef} src={LogoS} alt="logo" />
+    <div className="logo-container">
+      <div className="background"></div>
+      <img className="solid-logo" src={LogoS} style={{opacity: opacity}} alt="solid logo" />
     </div>
   );
 };

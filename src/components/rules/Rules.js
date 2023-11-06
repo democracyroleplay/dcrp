@@ -13,7 +13,6 @@ const Rules = () => {
   }, []);
 
   const particlesLoaded = useCallback(async (container) => {
-    await console.log(container);
   }, []);
 
 
