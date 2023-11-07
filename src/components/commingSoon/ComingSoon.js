@@ -4,6 +4,7 @@ import AnimatedLetters from "../../AnimatedLetters";
 import Loader from "react-loaders";
 import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
+import Timer from "../Timer/Timer";
 
 const ComingSoon = () => {
   const particlesInit = useCallback(async (engine) => {
@@ -52,19 +53,13 @@ const ComingSoon = () => {
     ".",
   ];
   const letterClass = "text-animate";
+  
+  const TargetData = new Date('2023-11-10T17:59:59')
 
   return (
     <>
       <div className="comingSoonBox">
-        <a className="discordLink" href="https://discord.gg/XG5ut2GZbP">
-        <AnimatedLetters
-          letterClass={letterClass}
-          strArray={array}
-          idx={16}
-          val={"0"}
-          className="registerText"
-        />
-      </a>
+      <Timer targetDate={TargetData} className='timer'/>
         <Loader type="pacman" />
       </div>
       <Particles
@@ -130,7 +125,7 @@ const ComingSoon = () => {
               type: "circle",
             },
             size: {
-              value: { min: 1, max: 5 },
+              value: { min: 0, max: 1 },
             },
           },
           detectRetina: true,

@@ -10,9 +10,20 @@
     position: relative;
     overflow-y: auto;
     max-height: 100vh;
-    font-family: cardFont;
-    
+    font-family: cardFont;    
 }
+
+
+.gradient-cards::-webkit-scrollbar-thumb {
+  background-color: #00ff99;
+  border-radius: 10px;
+  width: 20px;
+}
+
+.gradient-cards::-webkit-scrollbar {
+  width: 10px;
+}
+
 
 #tsparticles {
   animation: 3s loaderEffect linear;
@@ -54,7 +65,7 @@
   padding-right: 180px;
   z-index: 1;
   overflow-y: auto;
-  max-height: calc(100vh - 200px);
+  max-height: calc(100vh - 200px);  
 }
   
   .pageTitle {

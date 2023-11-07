@@ -80,7 +80,7 @@ const Home = () => {
               className={"logoLetters"}
             />
           </h1>
-          <Link to="/Register" className="flat-button">
+          <Link to="https://discord.gg/XG5ut2GZbP" className="flat-button">
             <AnimatedLetters
               letterClass={letterClass}
               strArray={registerButton}

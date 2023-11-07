@@ -50,14 +50,14 @@ const Sidebar = () => {
         >
           <FontAwesomeIcon icon={faBookOpen} color="#4d4d4e" />
         </NavLink>
-        <NavLink
+        <a
           activeclassname="active"
           className="register-link"
-          to="/Register"
+          href="https://discord.gg/XG5ut2GZbP"
           onClick={() => setShowNav(false)}
         >
           <FontAwesomeIcon icon={faRegistered} color="#4d4d4e" />
-        </NavLink>
+        </a>
       </nav>
       <ul>
         <li>

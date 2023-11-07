@@ -30,6 +30,20 @@
     stroke-dashoffset: 100; /* Initially set to the total path length to hide the logo */
     animation: drawSolid 3s 3s linear;
   }
+
+  .tagLine {
+    position: absolute;
+    color: rgb(0, 255, 221);
+  }
+  .timerHome
+  {
+    position: absolute;
+    color: rgb(0, 255, 157);
+    top: 80%;
+    left: 62.5%;
+    font-size: 24px;
+  }
+
   @keyframes drawSolid {
     10% { opacity: 0; }
     20% { opacity: 0.1; }
