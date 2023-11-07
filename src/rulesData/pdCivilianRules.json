@@ -1,0 +1,72 @@
+{
+    "rules":[
+    {
+      "title": "Character Background and Progression",
+      "description": "Always have a backstory for your character and ensure its progression aligns with this narrative."
+    },
+    {
+      "title": "Respect for Roleplay",
+      "description": "Avoid disrespecting or interacting with unconscious or deceased characters. Acts like using the piss emote or verbal abuse are immature and toxic. Prioritize mature roleplay."
+    },
+    {
+      "title": "AFK at Your Own Risk",
+      "description": "If you go AFK, you can't expect others to pause their scenarios."
+    },
+    {
+      "title": "Character Interaction Separation",
+      "description": "Your characters should not interact, transfer money, or share memories between them. Using a middleman for such interactions is also forbidden."
+    },
+    {
+      "title": "Voice Confirmation in Scenarios",
+      "description": "Characters shouldn’t be identified by their player's voice."
+    },
+    {
+      "title": "Fail RP Guidelines",
+      "description": "Failing to roleplay realistically or not adhering to server rules during an RP scenario is considered Fail RP and is punishable."
+    },
+    {
+      "title": "Law Enforcement Interaction",
+      "description": [
+        "Lawful Entry to the City: Upon entry, build your character's story rather than jumping into crime.",
+        "Police Procedures: Police will only search you or your vehicle if you ignore their orders or engage in a chase.",
+        "Interference in Police Scenarios: Civilians shouldn't interfere in ongoing police scenarios or kidnap officers/doctors in police presence.",
+        "Avoid Policing the Police: Don’t critique officers based on the server's police rules.",
+        "Police Warrants: Warrants are valid for three days.",
+        "Mask/Helmet Investigation: Police can investigate those wearing masks or helmets for identity concealment."
+      ]
+    },
+    {
+      "title": "Driving and Vehicle Use",
+      "description": [
+        "Stunt Regulations: Committing stunts, like excessive horn use or bike wheelies in front of the police, can result in a license revocation.",
+        "No Escape Through Water: Don’t end chases by diving into water. If fallen accidentally, exit ASAP.",
+        "Vehicle Change During Pursuit: Don't switch to a stored vehicle during a chase. Only switch to vehicles already outside."
+      ]
+    },
+    {
+      "title": "Combat and Confrontations",
+      "description": [
+        "Gun Misfire Accountability: Gun misfires are in-character (IC) and can’t be excused as out-of-character (OOC) mistakes.",
+        "RP First, Shooting Last: Prioritize roleplay over violence. Shooting should be a last resort.",
+        "Armed Running and Police Warning: Police may shoot if you run with a weapon, after a warning shot.",
+        "Shootout Location Planning: Shooting locations can be pre-planned, but they should be a secondary option to escaping.",
+        "No Shootouts Near Teleportation Blips: Avoid combat near teleportation locations."
+      ]
+    },
+    {
+      "title": "Heists, Robberies, and Kidnappings",
+      "description": [
+        "Realistic Heist Scenarios: Don’t use vehicles as barriers inside heist locations.",
+        "Cooperating with Kidnappers: If kidnapped, cooperate fully. Pretend you don’t recognize the kidnappers, even if you know them OOC.",
+        "Proper Negotiation in Robbery: Negotiate as if surrounded by police, even if only one officer responds.",
+        "Hostage Priority: Value hostages’ lives. Don't base actions on OOC knowledge of police numbers.",
+        "Robbery Aims: Focus on escaping with loot and teammates rather than fighting the police.",
+        "Cool Down Robberies: In case of robbery bugs, it's the robber's duty to escape before the police arrive. Don't mention OOC bugs during gameplay.",
+        "Gang-Related Activities: Don't involve regular chases in gang territories or call gang members for backup unless it's a gang event.",
+        "Forced ATM Withdrawals: Players can't be forced to withdraw money or sell assets.",
+        "Roleplay Reason for Hostage Attacks: Always have a roleplay reason to harm a hostage.",
+        "No Kidnapping on Bikes or Cycles: Use cars for kidnappings, not bikes or bicycles."
+      ]
+    }
+  ]
+}  

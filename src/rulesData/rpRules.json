@@ -1,0 +1,65 @@
+{
+    "rules": [
+        {
+        "title": "Respect All Players",
+        "description": "Do not use hate speech, offensive language, or personal attacks. Harassment, bullying, and discrimination are not tolerated."
+        },
+        {
+        "title": "No Random Deathmatching (RDM)",
+        "description": "Do not kill players without a proper roleplay reason. Always engage in a meaningful RP scenario before resorting to violence."
+        },
+        {
+        "title": "No Vehicle Deathmatching (VDM)",
+        "description": "Do not use vehicles to intentionally kill or harm other players without a roleplay reason."
+        },
+        {
+        "title": "No Meta-Gaming",
+        "description": "Do not use out-of-character (OOC) information to benefit your in-game character. This includes stream sniping, using Discord for in-game advantages, etc."
+        },
+        {
+        "title": "No Power Gaming",
+        "description": "Players cannot force actions on other players without giving them a chance to respond. Avoid unrealistic actions that break immersion."
+        },
+        {
+        "title": "No Combat Logging",
+        "description": "Do not disconnect, respawn, or find other ways to avoid RP scenarios, especially if you're in danger or have been injured."
+        },
+        {
+        "title": "Safe Zones",
+        "description": "Certain areas like hospitals, police stations, and spawn points are considered safe zones. No criminal activities or violence should occur in these areas."
+        },
+        {
+        "title": "Value Your Life (VYL)",
+        "description": "If faced with a life-threatening situation (e.g., a gun to your head), you should value your life and act accordingly."
+        },
+        {
+        "title": "No Microphone Spamming",
+        "description": "Do not play loud music, scream, or make disruptive noises over voice chat."
+        },
+        {
+        "title": "New Life Rule (NLR)",
+        "description": "If your character dies, you cannot return to the location of your death or engage in the same situation for a set period (e.g., 15 minutes). You also shouldn't remember events leading up to your death."
+        },
+        {
+        "title": "Roleplay Overrule",
+        "description": "Roleplay situations can override some of the standard rules. Always prioritize roleplay quality and immersion."
+        },
+        {
+        "title": "Use Common Sense",
+        "description": "If a situation isn't explicitly covered by the rules, use your best judgment and prioritize good roleplay."
+        },
+        {
+        "title": "Obey Server Staff",
+        "description": "If a staff member gives you an instruction or ruling, obey it. If you disagree, address it later in a respectful manner."
+        },
+        {
+        "title": "No Exploiting or Cheating",
+        "description": "Using bugs, glitches, third-party software, or any other means to gain an unfair advantage is strictly prohibited."
+        },
+        {
+        "title": "No Fail RP",
+        "description": "Always remain in character and behave realistically based on your character's background and current situation."
+        }
+  ]
+}
+  

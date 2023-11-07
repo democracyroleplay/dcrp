@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "title": "Robbery Vehicles",
+      "description": "During Robbery, any vehicles can be used. This rule will be applicable with regards to the base rules of every individual robbery rule."
+    },
+    {
+      "title": "Open Carry of Firearms",
+      "description": "During a chase, if the robber carries his firearm openly (visible), the Police officer is allowed to openly fire upon the robber without ultimatum/warning."
+    },
+    {
+      "title": "No Suppress",
+      "description": "Suppress Fire Ultimatum will not be given by the PD during Robbery Scenario. The same applies for any civilian. Suppress Fire is removed to provide a clean RP flow. Please engage in verbal communication before using firearms in RP scenarios, excluding robbery scenarios."
+    },
+    {
+      "title": "Defamation",
+      "description": "Unparliamentary words are strictly prohibited, and severe actions will be taken if any sort of Defamation is caused using 18+ words or highly offensive words. Creating an oppressing RP Scenario is understandable, but please take note that the opposite individual is also a person just like you."
+    }
+  ]
+}
