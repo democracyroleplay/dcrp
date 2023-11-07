@@ -20,7 +20,7 @@ const Home = () => {
 
 
 
-  const [letterClass, setLetterClass] = useState("text-animate");
+  const letterClass = "text-animate";
   const playButton = ["P", "L", "A", "Y", " ", "N", "O", "W"];
   const registerButton = ["R", "E", "G", "I", "S", "T", "E", "R"];
   const nameArray = [

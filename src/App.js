@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./components/index";
 import Layout from "./Layout/Layout.js";
 import "./App.scss";
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 import logoVideo from "./assets/videos/logo.mp4";
 import Rules from "./components/rules/Rules";
 import ComingSoon from "./components/commingSoon/ComingSoon";

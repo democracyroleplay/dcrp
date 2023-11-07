@@ -32,7 +32,7 @@ const ComingSoon = () => {
     ".",
     ".",
   ];
-  const [letterClass, setLetterClass] = useState("text-animate");
+  const letterClass = "text-animate";
 
   return (
     <>

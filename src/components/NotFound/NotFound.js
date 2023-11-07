@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./NotFound.css";
 import lost from "../../assets/images/404.png";
 import Loader from "react-loaders";
@@ -8,7 +8,7 @@ const NotFound = () => {
   return (
     <div className="notFoundDiv">
       <h2 className="text-animate notFound-text">Are you lost...</h2>
-      <img className="text-animate notFound-pic" src={lost} />
+      <img className="text-animate notFound-pic" src={lost} alt="text"/>
       <Link to="/Home" className="flat-button">
         Home
       </Link>
