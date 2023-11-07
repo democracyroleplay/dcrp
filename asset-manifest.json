@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dcrp/static/css/main.c10d911d.css",
-    "main.js": "/dcrp/static/js/main.8e7c0650.js",
+    "main.css": "/dcrp/static/css/main.2f558432.css",
+    "main.js": "/dcrp/static/js/main.5e38ebe7.js",
     "static/js/787.2a160ad8.chunk.js": "/dcrp/static/js/787.2a160ad8.chunk.js",
     "static/media/logo.mp4": "/dcrp/static/media/logo.a56bae9febe41cb1a587.mp4",
     "static/media/democratic_logo.png": "/dcrp/static/media/democratic_logo.0fb942b5fbf88bbf8d7c.png",
@@ -11,12 +11,12 @@
     "static/media/404.png": "/dcrp/static/media/404.885616a3bc7d37bb5a47.png",
     "static/media/Voice In My Head.otf": "/dcrp/static/media/Voice In My Head.2110c21ecbf0a245d976.otf",
     "index.html": "/dcrp/index.html",
-    "main.c10d911d.css.map": "/dcrp/static/css/main.c10d911d.css.map",
-    "main.8e7c0650.js.map": "/dcrp/static/js/main.8e7c0650.js.map",
+    "main.2f558432.css.map": "/dcrp/static/css/main.2f558432.css.map",
+    "main.5e38ebe7.js.map": "/dcrp/static/js/main.5e38ebe7.js.map",
     "787.2a160ad8.chunk.js.map": "/dcrp/static/js/787.2a160ad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c10d911d.css",
-    "static/js/main.8e7c0650.js"
+    "static/css/main.2f558432.css",
+    "static/js/main.5e38ebe7.js"
   ]
 }
