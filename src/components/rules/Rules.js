@@ -40,7 +40,7 @@ const Rules = () => {
             }}
             onClick={() => setActiveRule(3)}
           >
-            Exclusive Rules(DCRP)
+            Democracy Exclusive
           </p>
           <p
             class="rules-title"
