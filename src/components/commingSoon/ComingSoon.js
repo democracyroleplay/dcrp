@@ -14,20 +14,39 @@ const ComingSoon = () => {
   }, []);
 
   const array = [
-    "C",
+    "J",
     "O",
-    "M",
     "I",
     "N",
-    "G",
     " ",
     " ",
     " ",
+    "D",
+    "I",
     "S",
+    "C",
     "O",
-    "O",
-    "N",
+    "R",
+    "D",
     " ",
+    " ",
+    " ",
+    "T",
+    "O",
+    " ",
+    " ",
+    " ",
+    "K",
+    "N",
+    "O",
+    "W",
+    " ",
+    " ",
+    " ",
+    "M",
+    "O",
+    "R",
+    "E",
     ".",
     ".",
     ".",
@@ -37,6 +56,7 @@ const ComingSoon = () => {
   return (
     <>
       <div className="comingSoonBox">
+        <a className="discordLink" href="https://discord.gg/XG5ut2GZbP">
         <AnimatedLetters
           letterClass={letterClass}
           strArray={array}
@@ -44,6 +64,7 @@ const ComingSoon = () => {
           val={"0"}
           className="registerText"
         />
+      </a>
         <Loader type="pacman" />
       </div>
       <Particles

@@ -62,7 +62,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://discord.gg/NvgFqKGg"
+            href="https://discord.gg/XG5ut2GZbP"
             target="_blank"
             rel="noreferrer"
           >
