@@ -53,7 +53,7 @@ const Sidebar = () => {
         <a
           activeclassname="active"
           className="register-link"
-          href="https://discord.gg/XG5ut2GZbP"
+          href="https://discord.gg/pH6awnSkY4"
           onClick={() => setShowNav(false)}
         >
           <FontAwesomeIcon icon={faRegistered} color="#4d4d4e" />
@@ -62,7 +62,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://discord.gg/XG5ut2GZbP"
+            href="https://discord.gg/pH6awnSkY4"
             target="_blank"
             rel="noreferrer"
           >
