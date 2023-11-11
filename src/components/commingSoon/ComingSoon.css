@@ -36,3 +36,12 @@
     90% { opacity: 0.8; }
     100% { opacity: 1; }
 }
+
+.server-status {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 600px;
+    left: 50%;
+    transform: translate(-50%);
+}

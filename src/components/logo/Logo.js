@@ -16,7 +16,6 @@ const Logo = () => {
       <div className="background"></div>
       <img className="solid-logo" src={LogoS} style={{opacity: opacity}} alt="solid logo" />
       <p className="tagLine" style={{textDecoration: 'underline'}}>Let The People Rule Once...</p>
-      <Timer className='timerHome' targetDate={TargetData} />
     </div>
   );
 };

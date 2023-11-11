@@ -15,39 +15,42 @@ const ComingSoon = () => {
   }, []);
 
   const array = [
-    "J",
-    "O",
-    "I",
-    "N",
-    " ",
-    " ",
-    " ",
-    "D",
-    "I",
     "S",
-    "C",
-    "O",
+    "E",
     "R",
-    "D",
+    "V",
+    "E",
+    "R",
+    ' ',
     " ",
-    " ",
-    " ",
-    "T",
-    "O",
-    " ",
-    " ",
-    " ",
-    "K",
+    "U",
     "N",
-    "O",
-    "W",
+    "D",
+    "E",
+    "R",
     " ",
-    " ",
+    "D",
+    "E",
+    "V",
+    ' ',
     " ",
     "M",
     "O",
-    "R",
+    "D",
     "E",
+    ' ',
+    " ",
+    "S",
+    "T",
+    "A",
+    "Y",
+    " ",
+    " ",
+    "T",
+    "U",
+    "N",
+    "E",
+    "D",
     ".",
     ".",
     ".",
@@ -59,7 +62,13 @@ const ComingSoon = () => {
   return (
     <>
       <div className="comingSoonBox">
-      <Timer targetDate={TargetData} className='timer'/>
+      <AnimatedLetters
+              letterClass={letterClass}
+              strArray={array}
+              idx={8}
+              val={"0"}
+              className={"server-status"}
+            />
         <Loader type="pacman" />
       </div>
       <Particles
